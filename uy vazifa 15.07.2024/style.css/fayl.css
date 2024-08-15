@@ -1,0 +1,40 @@
+body{
+    display: flex;text-align: center;
+    align-items: center;
+}
+.jpeg{
+    background-image:url("./imges/1.jpeg");
+    width: 200vh;
+    height: 100vh;
+    background-repeat:no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.jpeg2{
+    background-image:url("./imges/2.jpeg");
+    width: 200vh;
+    height: 100vh;
+    background-repeat:no-repeat;
+    background-size: cover;
+    background-position: center;
+    color: white;
+}
+p{
+    background-position: center;
+}
+.jpeg3{
+    background-image:url("./imges/3.jpeg");
+    width: 200vh;
+    height: 100vh;
+    background-repeat:no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.png4{
+    background-image:url("./imges/4.png");
+    width: 200vh;
+    height: 100vh;
+    background-repeat:no-repeat;
+    background-size: cover;
+    background-position: center;
+}
